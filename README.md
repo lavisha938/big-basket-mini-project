@@ -35,6 +35,4 @@ Welcome to my mini-project based on a real-world dataset from **BigBasket** — 
 
 --
 ### 📣 Let’s Connect!
-
-If you find this project helpful, feel free to ⭐ the repo and follow for more data projects.
-Check out my [LinkedIn profile](https://linkedin.com/in/yourname) to see the journey in progress!
+Check out my profile [LinkedIn](https://www.linkedin.com/in/ lavisha-makhija-6804852b7 )
